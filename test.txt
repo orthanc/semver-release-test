@@ -3,3 +3,5 @@ with a fix
 and another
 
 And there's a feature!
+
+and another
