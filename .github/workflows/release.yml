@@ -20,7 +20,7 @@ jobs:
     - uses: actions/checkout@master
 
     # you'll need to add an `id` in order to access output variables
-    - uses: codfish/semantic-release-action@master
+    - uses: orthanc/semantic-release-action@master
       id: semantic
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
