@@ -1,1 +1,3 @@
 BREAKING CHANGE: The graphiteWidth option has been removed.
+
+more something
