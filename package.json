@@ -1,6 +1,6 @@
 {
   "name": "@orthanc/semver-release-test",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "yrdy",
   "main": "index.js",
   "scripts": {
