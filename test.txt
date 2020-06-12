@@ -3,7 +3,6 @@ with a fix
 and another
 
 And there's a feature
-
 This is really really important
 
 and another
